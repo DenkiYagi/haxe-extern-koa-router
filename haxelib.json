@@ -1,0 +1,16 @@
+{
+    "name": "koa-router",
+    "url": "https://github.com/DenkiYagi/haxe-extern-koa-router",
+    "description": "Haxe extern definitions for koa-router",
+    "license": "Apache",
+    "version": "7.4.0",
+    "releasenote": "",
+    "classPath": "src",
+    "contributors": ["terurou"],
+    "tags": ["js", "nodejs", "koa", "web", "http", "extern"],
+    "dependencies": {
+        "externtype": "1.0.0",
+        "hxnodejs": "git:https://github.com/HaxeFoundation/hxnodejs",
+        "koa": "git:https://github.com/DenkiYagi/haxe-extern-koa"
+    }
+}

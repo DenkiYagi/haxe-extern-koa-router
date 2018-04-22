@@ -1,0 +1,8 @@
+-cp src
+-lib externtype
+-lib hxnodejs
+-lib koa
+-js dist/dummy.js
+-debug
+--no-inline
+--no-output
